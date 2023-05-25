@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @PabloMad75 a student of information technology.
+## Hello! 👋
+
+Welcome to my GitHub repository! I'm @PabloMad75, a student of programming and software engineering. I'm passionate about the world of programming and software development.
+
 - 👀 I’m interested in learning every day.
 - 🌱 I’m learning the foundational aspects of web development technologies. I’m currently immersing myself in the fundamental principles of web development technologies. This exciting journey involves acquiring knowledge and skills in various areas such as HTML, CSS, and JavaScript.
 - 💞️ I'm looking to collaborate on projects where I can apply my skills in web development, even though I'm still in the learning process.
-- 📫 How to reach me ... not yet :see_no_evil:
+- 📫 How to reach me ... not yet :see_no_evil:  :+1:
+
+
+Thank you for visiting my repository:exclamation:
+
+:wave::wave::wave::wave::wave:
 
 <!---
 PabloMad75/PabloMad75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
