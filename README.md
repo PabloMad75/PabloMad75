@@ -18,7 +18,7 @@
 Welcome to my GitHub repository! I'm @PabloMad75, a passionate about the world of programming and software development.
 
 - 👀 I’m interested in learning every day.
-- 🌱 I’m learning the foundational aspects of web development technologies. I’m currently immersing myself in the fundamental principles of web development technologies. This exciting journey involves acquiring knowledge and skills in various areas such as HTML, CSS, and JavaScript.
+- 🌱 I’m learning the foundational aspects of web development technologies. I’m currently immersing myself in the fundamental principles of web development technologies such as HTML, CSS, and JavaScript.
 - :point_down: Here you will find various projects :briefcase: and exercises I have been working on during my learning journey.
 - 💞️ I'm looking to collaborate on projects where I can apply my skills in web development, even though I'm still in the learning process.
 - 📫 How to reach me ... not yet :see_no_evil:  :+1:
