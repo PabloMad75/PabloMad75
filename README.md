@@ -4,7 +4,7 @@
 - 👀 Estoy interesado en aprender cada día.
 - 🌱 Actualmente, estoy aprendiendo los aspectos fundamentales de las tecnologías de desarrollo web. Me sumerjo en los principios básicos de tecnologías como HTML, CSS y JavaScript.
 - :point_down: Aquí encontrarás varios proyectos :briefcase: y ejercicios en los que he estado trabajando durante mi proceso de aprendizaje.
-💞️ Estoy buscando colaborar en proyectos donde pueda aplicar mis habilidades en desarrollo web, aunque aún estoy en proceso de aprendizaje.
+- 💞️ Estoy buscando colaborar en proyectos donde pueda aplicar mis habilidades en desarrollo web, aunque aún estoy en proceso de aprendizaje.
 📫 Cómo contactarme... aún no :see_no_evil: :+1:
 
 ¡Gracias por visitar mi repositorio!
